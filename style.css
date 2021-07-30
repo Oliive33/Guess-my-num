@@ -192,7 +192,7 @@ h1 {
 }
 @media screen and (max-width: 520px) {
   main {
-    height: 75vh;
+    height: 105vh;
   }
   header {
     border-bottom: none;
@@ -205,8 +205,8 @@ h1 {
     padding-top: 1rem;
   }
   .number {
-    top: 165px;
-    font-size: 2.5rem;
+    top: 145px;
+    font-size: 2rem;
     margin-top: 0;
   }
   .between {
